@@ -1,2 +1,9 @@
 # BootcampWebDio-Formacao.NETDeveloper
-Durante a sua jornada você vai aprender como desenvolver em API's robustas para criar aplicações de alto nível, Testes unitários para criar aplicações a prova de bala, Banco de dados Relacional e Banco Não Relacional Na prática e ainda exercitar seus conhecimentos em Azure: Um dos principais serviços de nuvem do mercado.
+![image](https://user-images.githubusercontent.com/76081229/179023452-1ce9f2a1-2c5d-4428-8b53-97a463360f68.png)
+
+# E os demais desafios?
+
+Já foram feitos em bootcamps anteriores. Você pode encontrar nesse link: https://github.com/GabrielleKw/BootcampWebDio-GFT-Start5-NET 
+
+# Certificação 
+
