@@ -7,6 +7,8 @@ Já foram feitos em bootcamps anteriores. Você pode encontrar nesse link: https
 
 # Certificação 
 
+![image](https://user-images.githubusercontent.com/76081229/179275950-c530eabc-e3fa-4115-be28-be9398b3609f.png)
+
 
 <h3 align="left"> Quem sou eu ? <src="https://cdn-icons-png.flaticon.com/512/920/920938.png" alt="gabekw.twitter" height="40" width="40" /></a></h3>
 <p align="left">
